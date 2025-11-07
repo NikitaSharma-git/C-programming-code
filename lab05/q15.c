@@ -30,7 +30,7 @@ int main() {
                 break;
             case '/':
                 if (num2 != 0) {
-                    result = num1 / num2; // integer division
+                    result = num1 / num2; 
                     printf("Result: %d\n", result);
                 } else {
                     printf("Error: Division by zero is not possible .\n");
